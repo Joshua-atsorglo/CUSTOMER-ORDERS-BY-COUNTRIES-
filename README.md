@@ -16,7 +16,7 @@ Missing values, duplicates, and data quality issues.
 
 The dataset contains customer orders with fields including OrderID, CustomerID, Country, OrderDate, and Amount. There are 10,000 rows covering 20 countries."
 
-##METHODOLOGY 
+## METHODOLOGY 
 
 Data cleaning using Excel and Python 
 
@@ -52,7 +52,8 @@ plt.show()
 
 6. Excel pivot table - for plotting graphs 
 
-## Dashboard
+## DASHBOARD 
+https://github.com/Joshua-atsorglo/CUSTOMER-ORDERS-BY-COUNTRIES-/blob/main/pr1_31F5408EB8DE194D1E51.jpg
 
 ## INSIGHT 
 1. Top-performing countries.
